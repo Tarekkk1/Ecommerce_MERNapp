@@ -1,2 +1,2 @@
 # Ecommerce_MERNapp
-In IEEE traning we are building full MERN stack website ,this website is not completed yet.
+Full MERN stack project made as a practice for the most modern tools currently used by the company
